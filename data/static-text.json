@@ -10,6 +10,7 @@
             }
         },
         "config": {
+            "title": "SETTINGS",
             "dataUrlTitle": "Data URL",
             "stylingUrlTitle": "Styling URL",
             "buttons": {
