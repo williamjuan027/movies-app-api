@@ -1,0 +1,9 @@
+.ns-root {
+  /* Colors */
+  --color-primary: red;
+  --color-text-default: yellow;
+  --color-text-gray: #444;
+  --color-bg-default: green;
+
+  --spacing-20: 20;
+}
