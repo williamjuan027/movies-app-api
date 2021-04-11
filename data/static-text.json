@@ -1,0 +1,21 @@
+{
+    "staticText": {
+        "mainHeaderTitle": "MOVIES",
+        "home": {
+            "sectionTitle": {
+                "categories": "Categories"
+            },
+            "buttons": {
+                "heroCta": "PLAY NOW"
+            }
+        },
+        "config": {
+            "dataUrlTitle": "Data URL",
+            "stylingUrlTitle": "Styling URL",
+            "buttons": {
+                "update": "UPDATE"
+            }
+        }
+
+    }
+}
