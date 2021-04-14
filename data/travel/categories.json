@@ -1,29 +1,22 @@
 {
     "categories": [
         {
-            "displayName": "Action",
-            "categoryKey": "action",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/action.png"
+            "displayName": "Beaches",
+            "categoryKey": "beaches",
+            "image": "https://source.unsplash.com/KMn4VEeEPR8/300x600/",
+            "tinted": false
         },
         {
-            "displayName": "Adventure",
-            "categoryKey": "adventure",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/adventure.png"
+            "displayName": "Nature",
+            "categoryKey": "nature",
+            "image": "https://source.unsplash.com/hFzIoD0F_i8/300x600/",
+            "tinted": false
         },
         {
-            "displayName": "Drama",
-            "categoryKey": "drama",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/drama.png"
-        },
-        {
-            "displayName": "Family",
-            "categoryKey": "family",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/family.png"
-        },
-        {
-            "displayName": "Romance",
-            "categoryKey": "romance",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/romance.png"
+            "displayName": "Cities",
+            "categoryKey": "city",
+            "image": "https://source.unsplash.com/SVVTZtTGyaU/300x600/",
+            "tinted": false
         }
     ]
 }

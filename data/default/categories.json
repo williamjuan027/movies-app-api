@@ -3,27 +3,32 @@
         {
             "displayName": "Action",
             "categoryKey": "action",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/action.png"
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/action.png",
+            "tinted": true
         },
         {
             "displayName": "Adventure",
             "categoryKey": "adventure",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/adventure.png"
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/adventure.png",
+            "tinted": true
         },
         {
             "displayName": "Drama",
             "categoryKey": "drama",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/drama.png"
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/drama.png",
+            "tinted": true
         },
         {
             "displayName": "Family",
             "categoryKey": "family",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/family.png"
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/family.png",
+            "tinted": true
         },
         {
             "displayName": "Romance",
             "categoryKey": "romance",
-            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/romance.png"
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/romance.png",
+            "tinted": true
         }
     ]
 }

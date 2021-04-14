@@ -1,124 +1,103 @@
 {
     "productGroups": [
         {
+            "displayName": "Featured",
+            "groupKey": "featured",
+            "products": [
+                {
+                    "id": 1,
+                    "title": "Bali",
+                    "description": "",
+                    "keyInformation": [
+                        {
+                            "country": "Indonesia"
+                        }
+                    ],
+                    "rating": 4,
+                    "categories": [],
+                    "groups": [],
+                    "related": [],
+                    "image": {
+                        "thumbnail": "https://source.unsplash.com/lh6cxuDOS8s/400x600/",
+                        "cover": "https://source.unsplash.com/Bs8KWZTsWUo/800x600/"
+                    }
+                }
+            ]
+        },
+        {
             "displayName": "My List",
             "groupKey": "favorite",
             "products": [
                 {
-                    "id": 1,
-                    "title": "Avengers: Endgame",
-                    "description": "With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+                    "id": 2,
+                    "title": "Key West",
+                    "description": "",
                     "keyInformation": [
                         {
-                            "year": "2019"    
-                        },
-                        {
                             "country": "USA"
-                        },
-                        {
-                            "duration": 181
                         }
                     ],
                     "rating": 4,
-                    "categories": ["action", "adventure", "drama"],
-                    "groups": ["featured"],
+                    "categories": [],
+                    "groups": [],
                     "related": [],
                     "image": {
-                        "thumbnail": "",
-                        "cover": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/data/default/images/products/avengers-endgame-cover.json"
+                        "thumbnail": "https://source.unsplash.com/k5aM4saRxas/400x600/",
+                        "cover": "https://source.unsplash.com/Bs8KWZTsWUo/800x600/"
                     }
                 },
                 {
-                    "id": 2,
-                    "title": "Frozen",
-                    "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
+                    "id": 3,
+                    "title": "Orlando",
+                    "description": "",
                     "keyInformation": [
                         {
-                            "year": "2013"    
-                        },
-                        {
                             "country": "USA"
-                        },
-                        {
-                            "duration": 102
                         }
                     ],
                     "rating": 4,
-                    "categories": ["animation", "adventure", "comedy"],
-                    "groups": ["recommended"],
+                    "categories": [],
+                    "groups": [],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/frozen.png",
-                        "cover": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/frozen-cover.png"
+                        "thumbnail": "https://source.unsplash.com/z4ky2zXIjDM/400x600/",
+                        "cover": "https://source.unsplash.com/z4ky2zXIjDM/800x600/"
                     }
                 },
                 {
                     "id": 4,
-                    "title": "Home Alone",
-                    "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+                    "title": "Seattle",
+                    "description": "",
                     "keyInformation": [
                         {
-                            "year": "1990"    
-                        },
-                        {
                             "country": "USA"
-                        },
-                        {
-                            "duration": 103
                         }
                     ],
                     "rating": 4,
-                    "categories": ["comedy", "family"],
-                    "groups": ["recommended"],
+                    "categories": [],
+                    "groups": [],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/home-alone.png"
+                        "thumbnail": "https://source.unsplash.com/bAnfG1kOJ20/400x600/",
+                        "cover": "https://source.unsplash.com/mwO0ofO72J8/800x600/"
                     }
                 },
                 {
                     "id": 5,
-                    "title": "Jurassic Park",
-                    "description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+                    "title": "Chicago",
+                    "description": "",
                     "keyInformation": [
                         {
-                            "year": "1993"    
-                        },
-                        {
                             "country": "USA"
-                        },
-                        {
-                            "duration": 127
                         }
                     ],
                     "rating": 4,
-                    "categories": ["action", "adventure", "sci-fi"],
-                    "groups": ["recommended"],
+                    "categories": [],
+                    "groups": [],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/jurassic-park.png"
-                    }
-                },
-                {
-                    "id": 6,
-                    "title": "Kung Fu Panda",
-                    "description": "The Dragon Warrior has to clash against the savage Tai Lung as China's fate hangs in the balance. However, the Dragon Warrior mantle is supposedly mistaken to be bestowed upon an obese panda who is a novice in martial arts.",
-                    "keyInformation": [
-                        {
-                            "year": "2008"    
-                        },
-                        {
-                            "country": "USA"
-                        },
-                        {
-                            "duration": 92
-                        }
-                    ],
-                    "rating": 4,
-                    "categories": ["animation", "action", "adventure"],
-                    "groups": ["favorite"],
-                    "related": [],
-                    "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/kungfu-panda.png"
+                        "thumbnail": "https://source.unsplash.com/nDUXBnEPibc/400x600/",
+                        "cover": "https://source.unsplash.com/tnv84LOjes4/800x600/"
                     }
                 }
             ]
@@ -128,72 +107,57 @@
             "groupKey": "recommendations",
             "products": [
                 {
+                    "id": 5,
+                    "title": "Paris",
+                    "description": "",
+                    "keyInformation": [
+                        {
+                            "country": "France"
+                        }
+                    ],
+                    "rating": 4,
+                    "categories": [],
+                    "groups": [],
+                    "related": [],
+                    "image": {
+                        "thumbnail": "https://source.unsplash.com/Q0-fOL2nqZc/400x600/",
+                        "cover": "https://source.unsplash.com/QAwciFlS1g4/800x600/"
+                    }
+                },
+                {
+                    "id": 6,
+                    "title": "Los Angeles",
+                    "description": "",
+                    "keyInformation": [
+                        {
+                            "country": "USA"
+                        }
+                    ],
+                    "rating": 4,
+                    "categories": [],
+                    "groups": [],
+                    "related": [],
+                    "image": {
+                        "thumbnail": "https://source.unsplash.com/645g50Mxy8s/400x600/",
+                        "cover": "https://source.unsplash.com/645g50Mxy8s/800x600/"
+                    }
+                },
+                {
                     "id": 7,
-                    "title": "Lady and the Tramp",
-                    "description": "The romantic tale of a sheltered uptown Cocker Spaniel dog and a streetwise downtown Mutt.",
+                    "title": "Venice",
+                    "description": "",
                     "keyInformation": [
                         {
-                            "year": "2019"    
-                        },
-                        {
-                            "country": "USA"
-                        },
-                        {
-                            "duration": 121
-                        }
-                    ],
-                    "rating": 3,
-                    "categories": ["adventure", "comedy", "drama"],
-                    "groups": ["favorite"],
-                    "related": [],
-                    "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/lady-and-the-tramp.png"
-                    }
-                },
-                {
-                    "id": 8,
-                    "title": "Ratatouille",
-                    "description": "A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.",
-                    "keyInformation": [
-                        {
-                            "year": "2007"    
-                        },
-                        {
-                            "country": "USA"
-                        },
-                        {
-                            "duration": 120
+                            "country": "Italy"
                         }
                     ],
                     "rating": 4,
-                    "categories": ["action", "adventure", "comedy"],
-                    "groups": ["favorite"],
+                    "categories": [],
+                    "groups": [],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/ratatouille.png"
-                    }
-                },
-                {
-                    "id": 9,
-                    "title": "Twilight",
-                    "description": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire.",
-                    "keyInformation": [
-                        {
-                            "year": "2008"    
-                        },
-                        {
-                            "country": "USA"
-                        },
-                        {
-                            "duration": 122
-                        }
-                    ],
-                    "rating": 4,
-                    "categories": ["drama", "fantasy", "romance"],
-                    "groups": ["recommended", "favorite"],
-                    "related": [],
-                    "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products//twilight.png"
+                        "thumbnail": "https://source.unsplash.com/hFXZ5cNfkOk/400x600/",
+                        "cover": "https://source.unsplash.com/l2YAvPYur7U/800x600/"
                     }
                 }
             ]       

@@ -3,6 +3,10 @@
         {
             "displayName": "Default",
             "dataUrl": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/data/default"
+        },
+        {
+            "displayName": "Travel",
+            "dataUrl": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/data/travel"
         }
     ]
 }
