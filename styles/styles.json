@@ -1,0 +1,24 @@
+{
+    "styles": [
+        {
+            "displayName": "Default",
+            "styleUrl": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/styles/default.css"
+        },
+        {
+            "displayName": "Airbnb",
+            "styleUrl": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/styles/airbnb.css"
+        },
+        {
+            "displayName": "Spotify",
+            "styleUrl": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/styles/spotify.css"
+        },
+        {
+            "displayName": "Netflix",
+            "styleUrl": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/styles/netflix.css"
+        },
+        {
+            "displayName": "Greenish",
+            "styleUrl": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/styles/greenish.css"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "categories": [
+        {
+            "displayName": "Action",
+            "categoryKey": "action",
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/action.png"
+        },
+        {
+            "displayName": "Adventure",
+            "categoryKey": "adventure",
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/adventure.png"
+        },
+        {
+            "displayName": "Drama",
+            "categoryKey": "drama",
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/drama.png"
+        },
+        {
+            "displayName": "Family",
+            "categoryKey": "family",
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/family.png"
+        },
+        {
+            "displayName": "Romance",
+            "categoryKey": "romance",
+            "image": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/categories/romance.png"
+        }
+    ]
+}

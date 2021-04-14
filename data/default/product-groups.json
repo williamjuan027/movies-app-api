@@ -25,7 +25,7 @@
                     "related": [],
                     "image": {
                         "thumbnail": "",
-                        "cover": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/images/products/avengers-endgame-cover.json"
+                        "cover": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/data/default/images/products/avengers-endgame-cover.json"
                     }
                 },
                 {
@@ -48,8 +48,8 @@
                     "groups": ["recommended"],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/images/products/frozen.png",
-                        "cover": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/images/products/frozen-cover.png"
+                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/frozen.png",
+                        "cover": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/frozen-cover.png"
                     }
                 },
                 {
@@ -72,7 +72,7 @@
                     "groups": ["recommended"],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/images/products/home-alone.png"
+                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/home-alone.png"
                     }
                 },
                 {
@@ -95,7 +95,7 @@
                     "groups": ["recommended"],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/images/products/jurassic-park.png"
+                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/jurassic-park.png"
                     }
                 },
                 {
@@ -118,7 +118,7 @@
                     "groups": ["favorite"],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/images/products/kungfu-panda.png"
+                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/kungfu-panda.png"
                     }
                 }
             ]
@@ -147,7 +147,7 @@
                     "groups": ["favorite"],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/images/products/lady-and-the-tramp.png"
+                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/lady-and-the-tramp.png"
                     }
                 },
                 {
@@ -170,7 +170,7 @@
                     "groups": ["favorite"],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/images/products/ratatouille.png"
+                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products/ratatouille.png"
                     }
                 },
                 {
@@ -193,7 +193,7 @@
                     "groups": ["recommended", "favorite"],
                     "related": [],
                     "image": {
-                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/main/images/products//twilight.png"
+                        "thumbnail": "https://raw.githubusercontent.com/williamjuan027/movies-app-api/data/default/images/products//twilight.png"
                     }
                 }
             ]       
