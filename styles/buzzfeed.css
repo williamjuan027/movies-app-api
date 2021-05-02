@@ -1,9 +1,10 @@
 .ns-root {
   /* Colors */
-  --color-primary: #444;
-  --color-bg-default: #ccffbd;
+  --color-primary: #ee3322;
+  --color-bg-default: #fefefe;
+  --color-bg-gray: #444;
 
-  --color-text-on-primary: #ccffbd;
+  --color-text-on-primary: #fefefe;
   --color-text-default: #444;
   --color-text-gray: #444;
 
